@@ -24,7 +24,7 @@
     - [x] Set Up Network and HTTP Load Balancers
     - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
-    - [ ] Cloud Storage Qwik Start - Cloud Console
+    - [x] Cloud Storage Qwik Start - Cloud Console
     - [ ] Cloud IAM: Qwik Start
     - [ ] Cloud Monitoring: Qwik Start
     - [ ] Cloud Functions: Qwik Start - Console
