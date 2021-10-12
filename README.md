@@ -32,8 +32,8 @@
     - [x] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 - [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
     - [x] Cloud IAM: Qwik Start
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] Multiple VPC Networks
+    - [x] Introduction to SQL for BigQuery and Cloud SQL
+    - [x] Multiple VPC Networks
     - [x] Cloud Monitoring: Qwik Start
     - [ ] Managing Deployments Using Kubernetes Engine
     - [ ] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
