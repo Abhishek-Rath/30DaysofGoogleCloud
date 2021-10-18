@@ -50,23 +50,23 @@
     - [x] HTTP Load Balancer with Cloud Armor
     - [x] Create an Internal Load Balancer
     - [x] Build and Secure Networks in Google Cloud: Challenge Lab
-- [ ] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
-    - [ ] Introduction to Docker
+- [x] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
+    - [x] Introduction to Docker
     - [x] Kubernetes Engine: Qwik Start
     - [x] Orchestrating the Cloud with Kubernetes
     - [x] Managing Deployments Using Kubernetes Engine
-    - [ ] Continuous Delivery with Jenkins in Kubernetes Engine
-    - [ ] Deploy to Kuberenetes in Google Cloud: Challenge Lab
+    - [x] Continuous Delivery with Jenkins in Kubernetes Engine
+    - [x] Deploy to Kuberenetes in Google Cloud: Challenge Lab
 
 ### * Track 2: Data Science and Machine Learning Track
 
-- [ ] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
-    - [ ] A Tour of Qwiklabs and Google Cloud
-    - [ ] Creating a Virtual Machine
-    - [ ] Getting Started with Cloud Shell and gcloud
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Set Up Network and HTTP Load Balancers
-    - [ ] Create and Manage Cloud Resources: Challenge Lab
+- [x] Getting Started: Create and Manage Cloud Resources: [link](https://google.qwiklabs.com/quests/120)
+    - [x] A Tour of Qwiklabs and Google Cloud
+    - [x] Creating a Virtual Machine
+    - [x] Getting Started with Cloud Shell and gcloud
+    - [x] Kubernetes Engine: Qwik Start
+    - [x] Set Up Network and HTTP Load Balancers
+    - [x] Create and Manage Cloud Resources: Challenge Lab
 - [ ] Perform Foundational Data, ML and AI Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/117)
     - [ ] AI Platform: Qwik Start
     - [ ] Dataprep: Qwik Start
