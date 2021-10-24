@@ -86,9 +86,9 @@
 - [ ] Engineer data in Google Cloud: [link](https://google.qwiklabs.com/quests/132)
     - [x] Creating a Data Transformation Pipeline with Cloud Dataprep
     - [x] Building an IoT Analytics Pipeline on Google Cloud
-    - [ ] ETL Processing on Google Cloud Using Dataflow and BigQuery
-    - [ ] Predict Visitor Purchases with a Classification Model in BQML
-    - [ ] Predict Housing Prices with Tensorflow and AI Platform
+    - [x] ETL Processing on Google Cloud Using Dataflow and BigQuery
+    - [x] Predict Visitor Purchases with a Classification Model in BQML
+    <!-- - [ ] Predict Housing Prices with Tensorflow and AI Platform -->
     - [ ] Cloud Composer: Copying BigQuery Tables Across Different Locations
     - [ ] Engineer Data in Google Cloud: Challenge Lab
 - [ ] Integrate with Machine Learning APIs: [link](https://google.qwiklabs.com/quests/136)
